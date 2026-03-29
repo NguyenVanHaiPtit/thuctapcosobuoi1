@@ -30,7 +30,7 @@ int main(void)
     /* Loop forever */
 		SystemCoreClockUpdate();
 		TimerInit();
-	  // 👇 thêm đoạn này
+
 	  Ucglib4WireSWSPI_begin(&ucg, UCG_FONT_MODE_SOLID);
 	  ucg_ClearScreen(&ucg);
 
