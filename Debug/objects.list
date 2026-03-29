@@ -1,0 +1,8 @@
+"./SDK_1.0.3_NUCLEO-F401RE/shared-20260323T021029Z-3-001/shared/Drivers/CMSIS/Source/system_stm32f4xx.o"
+"./SDK_1.0.3_NUCLEO-F401RE/shared-20260323T021029Z-3-001/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/stm32f401re_rcc.o"
+"./SDK_1.0.3_NUCLEO-F401RE/shared-20260323T021029Z-3-001/shared/Utilities/buff.o"
+"./SDK_1.0.3_NUCLEO-F401RE/shared-20260323T021029Z-3-001/shared/Utilities/utilities.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32f401retx.o"
